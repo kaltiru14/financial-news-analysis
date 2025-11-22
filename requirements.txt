@@ -13,6 +13,7 @@ textblob>=0.17.1
 # Financial Analysis
 yfinance>=0.2.18
 TA-Lib>=0.4.28
+pynance>=1.0.0
 # If TA-Lib fails, try: pip install ta-lib
 
 # Testing & Code Quality
